@@ -1,0 +1,379 @@
+date: 2026-08-01, time: 12:00, team_home: Вишнёвые Краги, team_guest: Сказочные Нити, surface: Вишнёвая Застава
+date: 2026-08-01, time: 15:00, team_home: Шелковые Крылья, team_guest: Лунные Кони, surface: Тихий Сад
+date: 2026-08-01, time: 18:00, team_home: Ветерок-Игрун, team_guest: Туманные Шалопаи, surface: Берёзовая Роща
+date: 2026-08-02, time: 12:00, team_home: Шелковые Крылья, team_guest: Берёзовые Струны, surface: Тихий Сад
+date: 2026-08-02, time: 15:00, team_home: Лунные Кони, team_guest: Ветерок-Игрун, surface: Луногорье
+date: 2026-08-02, time: 18:00, team_home: Хохотунчики, team_guest: Путешественники-Кометы, surface: Бархатный Холм
+date: 2026-08-07, time: 12:00, team_home: Ветерок-Игрун, team_guest: Снежные Ласточки, surface: Берёзовая Роща
+date: 2026-08-07, time: 15:00, team_home: Радужные Мосты, team_guest: Сказочные Нити, surface: Светлый Порог
+date: 2026-08-07, time: 18:00, team_home: Одуванчиковый Отряд, team_guest: Золотые Колокольчики, surface: Полянка Дубровна
+date: 2026-08-08, time: 12:00, team_home: Сказочные Нити, team_guest: Снежные Ласточки, surface: Златолесье
+date: 2026-08-08, time: 15:00, team_home: Соломенные Валы, team_guest: Изумрудные Стражи, surface: Липовый Бор
+date: 2026-08-08, time: 18:00, team_home: Берёзовые Струны, team_guest: Хрустальные Флаги, surface: Берёзовая Роща
+date: 2026-08-09, time: 12:00, team_home: Пурпурные Мячники, team_guest: Речной Сонет, surface: Гусиное Копытце
+date: 2026-08-09, time: 15:00, team_home: Небесные Дудочки, team_guest: Путешественники-Кометы, surface: Звёздный Ключ
+date: 2026-08-09, time: 18:00, team_home: Берёзовые Струны, team_guest: Шелковые Крылья, surface: Берёзовая Роща
+date: 2026-08-14, time: 12:00, team_home: Хохотунчики, team_guest: Берёзовые Струны, surface: Бархатный Холм
+date: 2026-08-14, time: 15:00, team_home: Рыжие Погоны, team_guest: Хрустальные Флаги, surface: Крапивное
+date: 2026-08-14, time: 18:00, team_home: Ветерок-Игрун, team_guest: Лунные Кони, surface: Берёзовая Роща
+date: 2026-08-15, time: 12:00, team_home: Небесные Дудочки, team_guest: Изумрудные Стражи, surface: Звёздный Ключ
+date: 2026-08-15, time: 15:00, team_home: Туманные Шалопаи, team_guest: Путешественники-Кометы, surface: Туманный Перевал
+date: 2026-08-15, time: 18:00, team_home: Рыжие Погоны, team_guest: Золотые Колокольчики, surface: Крапивное
+date: 2026-08-16, time: 12:00, team_home: Рыжие Погоны, team_guest: Лунные Кони, surface: Крапивное
+date: 2026-08-16, time: 15:00, team_home: Путешественники-Кометы, team_guest: Берёзовые Струны, surface: Дальний Бугор
+date: 2026-08-16, time: 18:00, team_home: Радужные Мосты, team_guest: Вишнёвые Краги, surface: Светлый Порог
+date: 2026-08-21, time: 12:00, team_home: Снежные Ласточки, team_guest: Одуванчиковый Отряд, surface: Снежноград
+date: 2026-08-21, time: 15:00, team_home: Ветерок-Игрун, team_guest: Шелковые Крылья, surface: Берёзовая Роща
+date: 2026-08-21, time: 18:00, team_home: Речной Сонет, team_guest: Соломенные Валы, surface: Качаловка
+date: 2026-08-22, time: 12:00, team_home: Туманные Шалопаи, team_guest: Радужные Мосты, surface: Туманный Перевал
+date: 2026-08-22, time: 15:00, team_home: Речной Сонет, team_guest: Лунные Кони, surface: Качаловка
+date: 2026-08-22, time: 18:00, team_home: Хохотунчики, team_guest: Пурпурные Мячники, surface: Бархатный Холм
+date: 2026-08-23, time: 12:00, team_home: Туманные Шалопаи, team_guest: Шелковые Крылья, surface: Туманный Перевал
+date: 2026-08-23, time: 15:00, team_home: Берёзовые Струны, team_guest: Снежные Ласточки, surface: Берёзовая Роща
+date: 2026-08-23, time: 18:00, team_home: Одуванчиковый Отряд, team_guest: Пурпурные Мячники, surface: Полянка Дубровна
+date: 2026-08-28, time: 12:00, team_home: Путешественники-Кометы, team_guest: Одуванчиковый Отряд, surface: Дальний Бугор
+date: 2026-08-28, time: 15:00, team_home: Вишнёвые Краги, team_guest: Пурпурные Мячники, surface: Вишнёвая Застава
+date: 2026-08-28, time: 18:00, team_home: Радужные Мосты, team_guest: Рыжие Погоны, surface: Светлый Порог
+date: 2026-08-29, time: 12:00, team_home: Небесные Дудочки, team_guest: Шелковые Крылья, surface: Звёздный Ключ
+date: 2026-08-29, time: 15:00, team_home: Речной Сонет, team_guest: Изумрудные Стражи, surface: Качаловка
+date: 2026-08-29, time: 18:00, team_home: Радужные Мосты, team_guest: Ветерок-Игрун, surface: Светлый Порог
+date: 2026-08-30, time: 12:00, team_home: Хохотунчики, team_guest: Изумрудные Стражи, surface: Бархатный Холм
+date: 2026-08-30, time: 15:00, team_home: Небесные Дудочки, team_guest: Рыжие Погоны, surface: Звёздный Ключ
+date: 2026-08-30, time: 18:00, team_home: Радужные Мосты, team_guest: Пурпурные Мячники, surface: Светлый Порог
+date: 2026-09-04, time: 12:00, team_home: Золотые Колокольчики, team_guest: Сказочные Нити, surface: Туманный Перевал
+date: 2026-09-04, time: 15:00, team_home: Хрустальные Флаги, team_guest: Одуванчиковый Отряд, surface: Изумрудград
+date: 2026-09-04, time: 18:00, team_home: Рыжие Погоны, team_guest: Соломенные Валы, surface: Крапивное
+date: 2026-09-05, time: 12:00, team_home: Золотые Колокольчики, team_guest: Берёзовые Струны, surface: Туманный Перевал
+date: 2026-09-05, time: 15:00, team_home: Сказочные Нити, team_guest: Шелковые Крылья, surface: Златолесье
+date: 2026-09-05, time: 18:00, team_home: Хрустальные Флаги, team_guest: Речной Сонет, surface: Изумрудград
+date: 2026-09-06, time: 12:00, team_home: Золотые Колокольчики, team_guest: Хрустальные Флаги, surface: Туманный Перевал
+date: 2026-09-06, time: 15:00, team_home: Сказочные Нити, team_guest: Речной Сонет, surface: Златолесье
+date: 2026-09-06, time: 18:00, team_home: Вишнёвые Краги, team_guest: Путешественники-Кометы, surface: Вишнёвая Застава
+date: 2026-09-11, time: 12:00, team_home: Берёзовые Струны, team_guest: Изумрудные Стражи, surface: Берёзовая Роща
+date: 2026-09-11, time: 15:00, team_home: Одуванчиковый Отряд, team_guest: Шелковые Крылья, surface: Полянка Дубровна
+date: 2026-09-11, time: 18:00, team_home: Лунные Кони, team_guest: Пурпурные Мячники, surface: Луногорье
+date: 2026-09-12, time: 12:00, team_home: Ветерок-Игрун, team_guest: Сказочные Нити, surface: Берёзовая Роща
+date: 2026-09-12, time: 15:00, team_home: Радужные Мосты, team_guest: Хрустальные Флаги, surface: Светлый Порог
+date: 2026-09-12, time: 18:00, team_home: Лунные Кони, team_guest: Одуванчиковый Отряд, surface: Луногорье
+date: 2026-09-13, time: 12:00, team_home: Небесные Дудочки, team_guest: Одуванчиковый Отряд, surface: Звёздный Ключ
+date: 2026-09-13, time: 15:00, team_home: Хохотунчики, team_guest: Сказочные Нити, surface: Бархатный Холм
+date: 2026-09-13, time: 18:00, team_home: Ветерок-Игрун, team_guest: Речной Сонет, surface: Берёзовая Роща
+date: 2026-09-18, time: 12:00, team_home: Хохотунчики, team_guest: Соломенные Валы, surface: Бархатный Холм
+date: 2026-09-18, time: 15:00, team_home: Берёзовые Струны, team_guest: Радужные Мосты, surface: Берёзовая Роща
+date: 2026-09-18, time: 18:00, team_home: Ветерок-Игрун, team_guest: Вишнёвые Краги, surface: Берёзовая Роща
+date: 2026-09-19, time: 12:00, team_home: Изумрудные Стражи, team_guest: Рыжие Погоны, surface: Изумрудград
+date: 2026-09-19, time: 15:00, team_home: Лунные Кони, team_guest: Сказочные Нити, surface: Луногорье
+date: 2026-09-19, time: 18:00, team_home: Хрустальные Флаги, team_guest: Хохотунчики, surface: Изумрудград
+date: 2026-09-20, time: 12:00, team_home: Небесные Дудочки, team_guest: Снежные Ласточки, surface: Звёздный Ключ
+date: 2026-09-20, time: 15:00, team_home: Пурпурные Мячники, team_guest: Ветерок-Игрун, surface: Гусиное Копытце
+date: 2026-09-20, time: 18:00, team_home: Хохотунчики, team_guest: Рыжие Погоны, surface: Бархатный Холм
+date: 2026-09-25, time: 12:00, team_home: Рыжие Погоны, team_guest: Хохотунчики, surface: Крапивное
+date: 2026-09-25, time: 15:00, team_home: Ветерок-Игрун, team_guest: Хрустальные Флаги, surface: Берёзовая Роща
+date: 2026-09-25, time: 18:00, team_home: Сказочные Нити, team_guest: Золотые Колокольчики, surface: Златолесье
+date: 2026-09-26, time: 12:00, team_home: Одуванчиковый Отряд, team_guest: Ветерок-Игрун, surface: Полянка Дубровна
+date: 2026-09-26, time: 15:00, team_home: Путешественники-Кометы, team_guest: Пурпурные Мячники, surface: Дальний Бугор
+date: 2026-09-26, time: 18:00, team_home: Радужные Мосты, team_guest: Берёзовые Струны, surface: Светлый Порог
+date: 2026-09-27, time: 12:00, team_home: Изумрудные Стражи, team_guest: Ветерок-Игрун, surface: Изумрудград
+date: 2026-09-27, time: 15:00, team_home: Сказочные Нити, team_guest: Берёзовые Струны, surface: Златолесье
+date: 2026-09-27, time: 18:00, team_home: Одуванчиковый Отряд, team_guest: Лунные Кони, surface: Полянка Дубровна
+date: 2026-10-03, time: 12:00, team_home: Рыжие Погоны, team_guest: Вишнёвые Краги, surface: Крапивное
+date: 2026-10-03, time: 15:00, team_home: Лунные Кони, team_guest: Речной Сонет, surface: Луногорье
+date: 2026-10-03, time: 18:00, team_home: Туманные Шалопаи, team_guest: Снежные Ласточки, surface: Туманный Перевал
+date: 2026-10-04, time: 12:00, team_home: Снежные Ласточки, team_guest: Изумрудные Стражи, surface: Снежноград
+date: 2026-10-04, time: 15:00, team_home: Речной Сонет, team_guest: Хрустальные Флаги, surface: Качаловка
+date: 2026-10-04, time: 18:00, team_home: Радужные Мосты, team_guest: Путешественники-Кометы, surface: Светлый Порог
+date: 2026-10-09, time: 12:00, team_home: Сказочные Нити, team_guest: Хрустальные Флаги, surface: Златолесье
+date: 2026-10-09, time: 15:00, team_home: Золотые Колокольчики, team_guest: Соломенные Валы, surface: Туманный Перевал
+date: 2026-10-09, time: 18:00, team_home: Радужные Мосты, team_guest: Одуванчиковый Отряд, surface: Светлый Порог
+date: 2026-10-10, time: 12:00, team_home: Вишнёвые Краги, team_guest: Хрустальные Флаги, surface: Вишнёвая Застава
+date: 2026-10-10, time: 15:00, team_home: Ветерок-Игрун, team_guest: Рыжие Погоны, surface: Берёзовая Роща
+date: 2026-10-10, time: 18:00, team_home: Снежные Ласточки, team_guest: Речной Сонет, surface: Снежноград
+date: 2026-10-11, time: 12:00, team_home: Пурпурные Мячники, team_guest: Туманные Шалопаи, surface: Гусиное Копытце
+date: 2026-10-11, time: 15:00, team_home: Берёзовые Струны, team_guest: Лунные Кони, surface: Берёзовая Роща
+date: 2026-10-11, time: 18:00, team_home: Золотые Колокольчики, team_guest: Небесные Дудочки, surface: Туманный Перевал
+date: 2026-10-16, time: 12:00, team_home: Изумрудные Стражи, team_guest: Соломенные Валы, surface: Изумрудград
+date: 2026-10-16, time: 15:00, team_home: Сказочные Нити, team_guest: Небесные Дудочки, surface: Златолесье
+date: 2026-10-16, time: 18:00, team_home: Хрустальные Флаги, team_guest: Лунные Кони, surface: Изумрудград
+date: 2026-10-17, time: 12:00, team_home: Хохотунчики, team_guest: Ветерок-Игрун, surface: Бархатный Холм
+date: 2026-10-17, time: 15:00, team_home: Одуванчиковый Отряд, team_guest: Небесные Дудочки, surface: Полянка Дубровна
+date: 2026-10-17, time: 18:00, team_home: Вишнёвые Краги, team_guest: Изумрудные Стражи, surface: Вишнёвая Застава
+date: 2026-10-18, time: 12:00, team_home: Шелковые Крылья, team_guest: Небесные Дудочки, surface: Тихий Сад
+date: 2026-10-18, time: 15:00, team_home: Пурпурные Мячники, team_guest: Лунные Кони, surface: Гусиное Копытце
+date: 2026-10-18, time: 18:00, team_home: Соломенные Валы, team_guest: Путешественники-Кометы, surface: Липовый Бор
+date: 2026-10-23, time: 12:00, team_home: Рыжие Погоны, team_guest: Изумрудные Стражи, surface: Крапивное
+date: 2026-10-23, time: 15:00, team_home: Небесные Дудочки, team_guest: Берёзовые Струны, surface: Звёздный Ключ
+date: 2026-10-23, time: 18:00, team_home: Золотые Колокольчики, team_guest: Вишнёвые Краги, surface: Туманный Перевал
+date: 2026-10-24, time: 12:00, team_home: Путешественники-Кометы, team_guest: Золотые Колокольчики, surface: Дальний Бугор
+date: 2026-10-24, time: 15:00, team_home: Рыжие Погоны, team_guest: Одуванчиковый Отряд, surface: Крапивное
+date: 2026-10-24, time: 18:00, team_home: Пурпурные Мячники, team_guest: Сказочные Нити, surface: Гусиное Копытце
+date: 2026-10-25, time: 12:00, team_home: Сказочные Нити, team_guest: Туманные Шалопаи, surface: Златолесье
+date: 2026-10-25, time: 15:00, team_home: Хрустальные Флаги, team_guest: Пурпурные Мячники, surface: Изумрудград
+date: 2026-10-25, time: 18:00, team_home: Путешественники-Кометы, team_guest: Речной Сонет, surface: Дальний Бугор
+date: 2026-10-30, time: 12:00, team_home: Речной Сонет, team_guest: Снежные Ласточки, surface: Качаловка
+date: 2026-10-30, time: 15:00, team_home: Сказочные Нити, team_guest: Рыжие Погоны, surface: Златолесье
+date: 2026-10-30, time: 18:00, team_home: Небесные Дудочки, team_guest: Золотые Колокольчики, surface: Звёздный Ключ
+date: 2026-10-31, time: 12:00, team_home: Сказочные Нити, team_guest: Вишнёвые Краги, surface: Златолесье
+date: 2026-10-31, time: 15:00, team_home: Снежные Ласточки, team_guest: Небесные Дудочки, surface: Снежноград
+date: 2026-10-31, time: 18:00, team_home: Золотые Колокольчики, team_guest: Лунные Кони, surface: Туманный Перевал
+date: 2026-11-01, time: 12:00, team_home: Путешественники-Кометы, team_guest: Хрустальные Флаги, surface: Дальний Бугор
+date: 2026-11-01, time: 15:00, team_home: Вишнёвые Краги, team_guest: Хохотунчики, surface: Вишнёвая Застава
+date: 2026-11-01, time: 18:00, team_home: Шелковые Крылья, team_guest: Туманные Шалопаи, surface: Тихий Сад
+date: 2026-11-06, time: 12:00, team_home: Берёзовые Струны, team_guest: Небесные Дудочки, surface: Берёзовая Роща
+date: 2026-11-06, time: 15:00, team_home: Ветерок-Игрун, team_guest: Пурпурные Мячники, surface: Берёзовая Роща
+date: 2026-11-06, time: 18:00, team_home: Туманные Шалопаи, team_guest: Хохотунчики, surface: Туманный Перевал
+date: 2026-11-07, time: 12:00, team_home: Золотые Колокольчики, team_guest: Пурпурные Мячники, surface: Туманный Перевал
+date: 2026-11-07, time: 15:00, team_home: Вишнёвые Краги, team_guest: Рыжие Погоны, surface: Вишнёвая Застава
+date: 2026-11-07, time: 18:00, team_home: Соломенные Валы, team_guest: Ветерок-Игрун, surface: Липовый Бор
+date: 2026-11-08, time: 12:00, team_home: Сказочные Нити, team_guest: Путешественники-Кометы, surface: Златолесье
+date: 2026-11-08, time: 15:00, team_home: Изумрудные Стражи, team_guest: Небесные Дудочки, surface: Изумрудград
+date: 2026-11-08, time: 18:00, team_home: Берёзовые Струны, team_guest: Золотые Колокольчики, surface: Берёзовая Роща
+date: 2026-11-13, time: 12:00, team_home: Соломенные Валы, team_guest: Сказочные Нити, surface: Липовый Бор
+date: 2026-11-13, time: 15:00, team_home: Лунные Кони, team_guest: Путешественники-Кометы, surface: Луногорье
+date: 2026-11-13, time: 18:00, team_home: Вишнёвые Краги, team_guest: Ветерок-Игрун, surface: Вишнёвая Застава
+date: 2026-11-14, time: 12:00, team_home: Хохотунчики, team_guest: Лунные Кони, surface: Бархатный Холм
+date: 2026-11-14, time: 15:00, team_home: Путешественники-Кометы, team_guest: Ветерок-Игрун, surface: Дальний Бугор
+date: 2026-11-14, time: 18:00, team_home: Туманные Шалопаи, team_guest: Пурпурные Мячники, surface: Туманный Перевал
+date: 2026-11-15, time: 12:00, team_home: Одуванчиковый Отряд, team_guest: Путешественники-Кометы, surface: Полянка Дубровна
+date: 2026-11-15, time: 15:00, team_home: Сказочные Нити, team_guest: Пурпурные Мячники, surface: Златолесье
+date: 2026-11-15, time: 18:00, team_home: Изумрудные Стражи, team_guest: Вишнёвые Краги, surface: Изумрудград
+date: 2026-11-20, time: 12:00, team_home: Изумрудные Стражи, team_guest: Золотые Колокольчики, surface: Изумрудград
+date: 2026-11-20, time: 15:00, team_home: Рыжие Погоны, team_guest: Радужные Мосты, surface: Крапивное
+date: 2026-11-20, time: 18:00, team_home: Небесные Дудочки, team_guest: Туманные Шалопаи, surface: Звёздный Ключ
+date: 2026-11-21, time: 12:00, team_home: Пурпурные Мячники, team_guest: Соломенные Валы, surface: Гусиное Копытце
+date: 2026-11-21, time: 15:00, team_home: Золотые Колокольчики, team_guest: Туманные Шалопаи, surface: Туманный Перевал
+date: 2026-11-21, time: 18:00, team_home: Хохотунчики, team_guest: Небесные Дудочки, surface: Бархатный Холм
+date: 2026-11-22, time: 12:00, team_home: Вишнёвые Краги, team_guest: Соломенные Валы, surface: Вишнёвая Застава
+date: 2026-11-22, time: 15:00, team_home: Радужные Мосты, team_guest: Золотые Колокольчики, surface: Светлый Порог
+date: 2026-11-22, time: 18:00, team_home: Изумрудные Стражи, team_guest: Шелковые Крылья, surface: Изумрудград
+date: 2026-11-27, time: 12:00, team_home: Одуванчиковый Отряд, team_guest: Берёзовые Струны, surface: Полянка Дубровна
+date: 2026-11-27, time: 15:00, team_home: Лунные Кони, team_guest: Рыжие Погоны, surface: Луногорье
+date: 2026-11-27, time: 18:00, team_home: Вишнёвые Краги, team_guest: Шелковые Крылья, surface: Вишнёвая Застава
+date: 2026-11-28, time: 12:00, team_home: Берёзовые Струны, team_guest: Путешественники-Кометы, surface: Берёзовая Роща
+date: 2026-11-28, time: 15:00, team_home: Сказочные Нити, team_guest: Изумрудные Стражи, surface: Златолесье
+date: 2026-11-28, time: 18:00, team_home: Снежные Ласточки, team_guest: Золотые Колокольчики, surface: Снежноград
+date: 2026-11-29, time: 12:00, team_home: Рыжие Погоны, team_guest: Путешественники-Кометы, surface: Крапивное
+date: 2026-11-29, time: 15:00, team_home: Речной Сонет, team_guest: Шелковые Крылья, surface: Качаловка
+date: 2026-11-29, time: 18:00, team_home: Лунные Кони, team_guest: Радужные Мосты, surface: Луногорье
+date: 2026-12-05, time: 12:00, team_home: Ветерок-Игрун, team_guest: Изумрудные Стражи, surface: Берёзовая Роща
+date: 2026-12-05, time: 15:00, team_home: Пурпурные Мячники, team_guest: Хохотунчики, surface: Гусиное Копытце
+date: 2026-12-05, time: 18:00, team_home: Соломенные Валы, team_guest: Шелковые Крылья, surface: Липовый Бор
+date: 2026-12-06, time: 12:00, team_home: Одуванчиковый Отряд, team_guest: Речной Сонет, surface: Полянка Дубровна
+date: 2026-12-06, time: 15:00, team_home: Шелковые Крылья, team_guest: Изумрудные Стражи, surface: Тихий Сад
+date: 2026-12-06, time: 18:00, team_home: Рыжие Погоны, team_guest: Небесные Дудочки, surface: Крапивное
+date: 2026-12-11, time: 12:00, team_home: Речной Сонет, team_guest: Рыжие Погоны, surface: Качаловка
+date: 2026-12-11, time: 15:00, team_home: Хрустальные Флаги, team_guest: Туманные Шалопаи, surface: Изумрудград
+date: 2026-12-11, time: 18:00, team_home: Ветерок-Игрун, team_guest: Радужные Мосты, surface: Берёзовая Роща
+date: 2026-12-12, time: 12:00, team_home: Берёзовые Струны, team_guest: Речной Сонет, surface: Берёзовая Роща
+date: 2026-12-12, time: 15:00, team_home: Сказочные Нити, team_guest: Ветерок-Игрун, surface: Златолесье
+date: 2026-12-12, time: 18:00, team_home: Лунные Кони, team_guest: Туманные Шалопаи, surface: Луногорье
+date: 2026-12-13, time: 12:00, team_home: Изумрудные Стражи, team_guest: Пурпурные Мячники, surface: Изумрудград
+date: 2026-12-13, time: 15:00, team_home: Туманные Шалопаи, team_guest: Хрустальные Флаги, surface: Туманный Перевал
+date: 2026-12-13, time: 18:00, team_home: Сказочные Нити, team_guest: Соломенные Валы, surface: Златолесье
+date: 2026-12-18, time: 12:00, team_home: Туманные Шалопаи, team_guest: Изумрудные Стражи, surface: Туманный Перевал
+date: 2026-12-18, time: 15:00, team_home: Шелковые Крылья, team_guest: Речной Сонет, surface: Тихий Сад
+date: 2026-12-18, time: 18:00, team_home: Небесные Дудочки, team_guest: Пурпурные Мячники, surface: Звёздный Ключ
+date: 2026-12-19, time: 12:00, team_home: Рыжие Погоны, team_guest: Сказочные Нити, surface: Крапивное
+date: 2026-12-19, time: 15:00, team_home: Снежные Ласточки, team_guest: Вишнёвые Краги, surface: Снежноград
+date: 2026-12-19, time: 18:00, team_home: Хрустальные Флаги, team_guest: Соломенные Валы, surface: Изумрудград
+date: 2026-12-20, time: 12:00, team_home: Берёзовые Струны, team_guest: Хохотунчики, surface: Берёзовая Роща
+date: 2026-12-20, time: 15:00, team_home: Соломенные Валы, team_guest: Хрустальные Флаги, surface: Липовый Бор
+date: 2026-12-20, time: 18:00, team_home: Лунные Кони, team_guest: Изумрудные Стражи, surface: Луногорье
+date: 2026-12-25, time: 12:00, team_home: Берёзовые Струны, team_guest: Ветерок-Игрун, surface: Берёзовая Роща
+date: 2026-12-25, time: 15:00, team_home: Хрустальные Флаги, team_guest: Золотые Колокольчики, surface: Изумрудград
+date: 2026-12-25, time: 18:00, team_home: Одуванчиковый Отряд, team_guest: Туманные Шалопаи, surface: Полянка Дубровна
+date: 2026-12-26, time: 12:00, team_home: Хохотунчики, team_guest: Одуванчиковый Отряд, surface: Бархатный Холм
+date: 2026-12-26, time: 15:00, team_home: Радужные Мосты, team_guest: Изумрудные Стражи, surface: Светлый Порог
+date: 2026-12-26, time: 18:00, team_home: Ветерок-Игрун, team_guest: Небесные Дудочки, surface: Берёзовая Роща
+date: 2026-12-27, time: 12:00, team_home: Хохотунчики, team_guest: Радужные Мосты, surface: Бархатный Холм
+date: 2026-12-27, time: 15:00, team_home: Снежные Ласточки, team_guest: Туманные Шалопаи, surface: Снежноград
+date: 2026-12-27, time: 18:00, team_home: Путешественники-Кометы, team_guest: Небесные Дудочки, surface: Дальний Бугор
+date: 2027-01-01, time: 12:00, team_home: Соломенные Валы, team_guest: Небесные Дудочки, surface: Липовый Бор
+date: 2027-01-01, time: 15:00, team_home: Хохотунчики, team_guest: Речной Сонет, surface: Бархатный Холм
+date: 2027-01-01, time: 18:00, team_home: Лунные Кони, team_guest: Хрустальные Флаги, surface: Луногорье
+date: 2027-01-02, time: 12:00, team_home: Хрустальные Флаги, team_guest: Изумрудные Стражи, surface: Изумрудград
+date: 2027-01-02, time: 15:00, team_home: Шелковые Крылья, team_guest: Хохотунчики, surface: Тихий Сад
+date: 2027-01-02, time: 18:00, team_home: Ветерок-Игрун, team_guest: Одуванчиковый Отряд, surface: Берёзовая Роща
+date: 2027-01-03, time: 12:00, team_home: Вишнёвые Краги, team_guest: Речной Сонет, surface: Вишнёвая Застава
+date: 2027-01-03, time: 15:00, team_home: Шелковые Крылья, team_guest: Хрустальные Флаги, surface: Тихий Сад
+date: 2027-01-03, time: 18:00, team_home: Лунные Кони, team_guest: Золотые Колокольчики, surface: Луногорье
+date: 2027-01-08, time: 12:00, team_home: Лунные Кони, team_guest: Вишнёвые Краги, surface: Луногорье
+date: 2027-01-08, time: 15:00, team_home: Рыжие Погоны, team_guest: Берёзовые Струны, surface: Крапивное
+date: 2027-01-08, time: 18:00, team_home: Изумрудные Стражи, team_guest: Путешественники-Кометы, surface: Изумрудград
+date: 2027-01-09, time: 12:00, team_home: Хохотунчики, team_guest: Туманные Шалопаи, surface: Бархатный Холм
+date: 2027-01-09, time: 15:00, team_home: Шелковые Крылья, team_guest: Снежные Ласточки, surface: Тихий Сад
+date: 2027-01-09, time: 18:00, team_home: Ветерок-Игрун, team_guest: Золотые Колокольчики, surface: Берёзовая Роща
+date: 2027-01-10, time: 12:00, team_home: Речной Сонет, team_guest: Путешественники-Кометы, surface: Качаловка
+date: 2027-01-10, time: 15:00, team_home: Небесные Дудочки, team_guest: Лунные Кони, surface: Звёздный Ключ
+date: 2027-01-10, time: 18:00, team_home: Одуванчиковый Отряд, team_guest: Вишнёвые Краги, surface: Полянка Дубровна
+date: 2027-01-15, time: 12:00, team_home: Лунные Кони, team_guest: Небесные Дудочки, surface: Луногорье
+date: 2027-01-15, time: 15:00, team_home: Путешественники-Кометы, team_guest: Хохотунчики, surface: Дальний Бугор
+date: 2027-01-15, time: 18:00, team_home: Вишнёвые Краги, team_guest: Одуванчиковый Отряд, surface: Вишнёвая Застава
+date: 2027-01-16, time: 12:00, team_home: Золотые Колокольчики, team_guest: Снежные Ласточки, surface: Туманный Перевал
+date: 2027-01-16, time: 15:00, team_home: Вишнёвые Краги, team_guest: Туманные Шалопаи, surface: Вишнёвая Застава
+date: 2027-01-16, time: 18:00, team_home: Шелковые Крылья, team_guest: Путешественники-Кометы, surface: Тихий Сад
+date: 2027-01-17, time: 12:00, team_home: Золотые Колокольчики, team_guest: Радужные Мосты, surface: Туманный Перевал
+date: 2027-01-17, time: 15:00, team_home: Берёзовые Струны, team_guest: Рыжие Погоны, surface: Берёзовая Роща
+date: 2027-01-17, time: 18:00, team_home: Вишнёвые Краги, team_guest: Небесные Дудочки, surface: Вишнёвая Застава
+date: 2027-01-22, time: 12:00, team_home: Речной Сонет, team_guest: Золотые Колокольчики, surface: Качаловка
+date: 2027-01-22, time: 15:00, team_home: Одуванчиковый Отряд, team_guest: Соломенные Валы, surface: Полянка Дубровна
+date: 2027-01-22, time: 18:00, team_home: Изумрудные Стражи, team_guest: Лунные Кони, surface: Изумрудград
+date: 2027-01-23, time: 12:00, team_home: Хрустальные Флаги, team_guest: Вишнёвые Краги, surface: Изумрудград
+date: 2027-01-23, time: 15:00, team_home: Пурпурные Мячники, team_guest: Путешественники-Кометы, surface: Гусиное Копытце
+date: 2027-01-23, time: 18:00, team_home: Шелковые Крылья, team_guest: Соломенные Валы, surface: Тихий Сад
+date: 2027-01-24, time: 12:00, team_home: Речной Сонет, team_guest: Берёзовые Струны, surface: Качаловка
+date: 2027-01-24, time: 15:00, team_home: Путешественники-Кометы, team_guest: Лунные Кони, surface: Дальний Бугор
+date: 2027-01-24, time: 18:00, team_home: Шелковые Крылья, team_guest: Рыжие Погоны, surface: Тихий Сад
+date: 2027-01-29, time: 12:00, team_home: Пурпурные Мячники, team_guest: Снежные Ласточки, surface: Гусиное Копытце
+date: 2027-01-29, time: 15:00, team_home: Хрустальные Флаги, team_guest: Путешественники-Кометы, surface: Изумрудград
+date: 2027-01-29, time: 18:00, team_home: Хохотунчики, team_guest: Золотые Колокольчики, surface: Бархатный Холм
+date: 2027-01-30, time: 12:00, team_home: Небесные Дудочки, team_guest: Сказочные Нити, surface: Звёздный Ключ
+date: 2027-01-30, time: 15:00, team_home: Одуванчиковый Отряд, team_guest: Хохотунчики, surface: Полянка Дубровна
+date: 2027-01-30, time: 18:00, team_home: Речной Сонет, team_guest: Ветерок-Игрун, surface: Качаловка
+date: 2027-01-31, time: 12:00, team_home: Снежные Ласточки, team_guest: Хохотунчики, surface: Снежноград
+date: 2027-01-31, time: 15:00, team_home: Берёзовые Струны, team_guest: Туманные Шалопаи, surface: Берёзовая Роща
+date: 2027-01-31, time: 18:00, team_home: Сказочные Нити, team_guest: Одуванчиковый Отряд, surface: Златолесье
+date: 2027-02-06, time: 12:00, team_home: Шелковые Крылья, team_guest: Золотые Колокольчики, surface: Тихий Сад
+date: 2027-02-06, time: 15:00, team_home: Путешественники-Кометы, team_guest: Вишнёвые Краги, surface: Дальний Бугор
+date: 2027-02-06, time: 18:00, team_home: Соломенные Валы, team_guest: Лунные Кони, surface: Липовый Бор
+date: 2027-02-07, time: 12:00, team_home: Речной Сонет, team_guest: Небесные Дудочки, surface: Качаловка
+date: 2027-02-07, time: 15:00, team_home: Туманные Шалопаи, team_guest: Соломенные Валы, surface: Туманный Перевал
+date: 2027-02-07, time: 18:00, team_home: Ветерок-Игрун, team_guest: Берёзовые Струны, surface: Берёзовая Роща
+date: 2027-02-12, time: 12:00, team_home: Изумрудные Стражи, team_guest: Берёзовые Струны, surface: Изумрудград
+date: 2027-02-12, time: 15:00, team_home: Соломенные Валы, team_guest: Речной Сонет, surface: Липовый Бор
+date: 2027-02-12, time: 18:00, team_home: Вишнёвые Краги, team_guest: Радужные Мосты, surface: Вишнёвая Застава
+date: 2027-02-13, time: 12:00, team_home: Туманные Шалопаи, team_guest: Рыжие Погоны, surface: Туманный Перевал
+date: 2027-02-13, time: 15:00, team_home: Снежные Ласточки, team_guest: Путешественники-Кометы, surface: Снежноград
+date: 2027-02-13, time: 18:00, team_home: Соломенные Валы, team_guest: Берёзовые Струны, surface: Липовый Бор
+date: 2027-02-14, time: 12:00, team_home: Шелковые Крылья, team_guest: Вишнёвые Краги, surface: Тихий Сад
+date: 2027-02-14, time: 15:00, team_home: Путешественники-Кометы, team_guest: Изумрудные Стражи, surface: Дальний Бугор
+date: 2027-02-14, time: 18:00, team_home: Одуванчиковый Отряд, team_guest: Рыжие Погоны, surface: Полянка Дубровна
+date: 2027-02-19, time: 12:00, team_home: Пурпурные Мячники, team_guest: Рыжие Погоны, surface: Гусиное Копытце
+date: 2027-02-19, time: 15:00, team_home: Небесные Дудочки, team_guest: Соломенные Валы, surface: Звёздный Ключ
+date: 2027-02-19, time: 18:00, team_home: Лунные Кони, team_guest: Шелковые Крылья, surface: Луногорье
+date: 2027-02-20, time: 12:00, team_home: Путешественники-Кометы, team_guest: Рыжие Погоны, surface: Дальний Бугор
+date: 2027-02-20, time: 15:00, team_home: Небесные Дудочки, team_guest: Речной Сонет, surface: Звёздный Ключ
+date: 2027-02-20, time: 18:00, team_home: Берёзовые Струны, team_guest: Одуванчиковый Отряд, surface: Берёзовая Роща
+date: 2027-02-21, time: 12:00, team_home: Ветерок-Игрун, team_guest: Соломенные Валы, surface: Берёзовая Роща
+date: 2027-02-21, time: 15:00, team_home: Рыжие Погоны, team_guest: Пурпурные Мячники, surface: Крапивное
+date: 2027-02-21, time: 18:00, team_home: Снежные Ласточки, team_guest: Радужные Мосты, surface: Снежноград
+date: 2027-02-26, time: 12:00, team_home: Соломенные Валы, team_guest: Радужные Мосты, surface: Липовый Бор
+date: 2027-02-26, time: 15:00, team_home: Изумрудные Стражи, team_guest: Снежные Ласточки, surface: Изумрудград
+date: 2027-02-26, time: 18:00, team_home: Туманные Шалопаи, team_guest: Лунные Кони, surface: Туманный Перевал
+date: 2027-02-27, time: 12:00, team_home: Сказочные Нити, team_guest: Лунные Кони, surface: Златолесье
+date: 2027-02-27, time: 15:00, team_home: Туманные Шалопаи, team_guest: Небесные Дудочки, surface: Туманный Перевал
+date: 2027-02-27, time: 18:00, team_home: Шелковые Крылья, team_guest: Радужные Мосты, surface: Тихий Сад
+date: 2027-02-28, time: 12:00, team_home: Хрустальные Флаги, team_guest: Радужные Мосты, surface: Изумрудград
+date: 2027-02-28, time: 15:00, team_home: Соломенные Валы, team_guest: Хохотунчики, surface: Липовый Бор
+date: 2027-02-28, time: 18:00, team_home: Туманные Шалопаи, team_guest: Одуванчиковый Отряд, surface: Туманный Перевал
+date: 2027-03-05, time: 12:00, team_home: Путешественники-Кометы, team_guest: Снежные Ласточки, surface: Дальний Бугор
+date: 2027-03-05, time: 15:00, team_home: Золотые Колокольчики, team_guest: Изумрудные Стражи, surface: Туманный Перевал
+date: 2027-03-05, time: 18:00, team_home: Хрустальные Флаги, team_guest: Небесные Дудочки, surface: Изумрудград
+date: 2027-03-06, time: 12:00, team_home: Снежные Ласточки, team_guest: Берёзовые Струны, surface: Снежноград
+date: 2027-03-06, time: 15:00, team_home: Шелковые Крылья, team_guest: Сказочные Нити, surface: Тихий Сад
+date: 2027-03-06, time: 18:00, team_home: Изумрудные Стражи, team_guest: Речной Сонет, surface: Изумрудград
+date: 2027-03-07, time: 12:00, team_home: Ветерок-Игрун, team_guest: Хохотунчики, surface: Берёзовая Роща
+date: 2027-03-07, time: 15:00, team_home: Хрустальные Флаги, team_guest: Берёзовые Струны, surface: Изумрудград
+date: 2027-03-07, time: 18:00, team_home: Одуванчиковый Отряд, team_guest: Снежные Ласточки, surface: Полянка Дубровна
+date: 2027-03-12, time: 12:00, team_home: Пурпурные Мячники, team_guest: Изумрудные Стражи, surface: Гусиное Копытце
+date: 2027-03-12, time: 15:00, team_home: Одуванчиковый Отряд, team_guest: Хрустальные Флаги, surface: Полянка Дубровна
+date: 2027-03-12, time: 18:00, team_home: Соломенные Валы, team_guest: Туманные Шалопаи, surface: Липовый Бор
+date: 2027-03-13, time: 12:00, team_home: Хохотунчики, team_guest: Снежные Ласточки, surface: Бархатный Холм
+date: 2027-03-13, time: 15:00, team_home: Радужные Мосты, team_guest: Лунные Кони, surface: Светлый Порог
+date: 2027-03-13, time: 18:00, team_home: Берёзовые Струны, team_guest: Вишнёвые Краги, surface: Берёзовая Роща
+date: 2027-03-14, time: 12:00, team_home: Лунные Кони, team_guest: Берёзовые Струны, surface: Луногорье
+date: 2027-03-14, time: 15:00, team_home: Шелковые Крылья, team_guest: Ветерок-Игрун, surface: Тихий Сад
+date: 2027-03-14, time: 18:00, team_home: Соломенные Валы, team_guest: Рыжие Погоны, surface: Липовый Бор
+date: 2027-03-19, time: 12:00, team_home: Снежные Ласточки, team_guest: Сказочные Нити, surface: Снежноград
+date: 2027-03-19, time: 15:00, team_home: Туманные Шалопаи, team_guest: Вишнёвые Краги, surface: Туманный Перевал
+date: 2027-03-19, time: 18:00, team_home: Рыжие Погоны, team_guest: Шелковые Крылья, surface: Крапивное
+date: 2027-03-20, time: 12:00, team_home: Одуванчиковый Отряд, team_guest: Радужные Мосты, surface: Полянка Дубровна
+date: 2027-03-20, time: 15:00, team_home: Хрустальные Флаги, team_guest: Сказочные Нити, surface: Изумрудград
+date: 2027-03-20, time: 18:00, team_home: Путешественники-Кометы, team_guest: Шелковые Крылья, surface: Дальний Бугор
+date: 2027-03-21, time: 12:00, team_home: Туманные Шалопаи, team_guest: Сказочные Нити, surface: Туманный Перевал
+date: 2027-03-21, time: 15:00, team_home: Снежные Ласточки, team_guest: Лунные Кони, surface: Снежноград
+date: 2027-03-21, time: 18:00, team_home: Небесные Дудочки, team_guest: Хрустальные Флаги, surface: Звёздный Ключ
+date: 2027-03-26, time: 12:00, team_home: Вишнёвые Краги, team_guest: Берёзовые Струны, surface: Вишнёвая Застава
+date: 2027-03-26, time: 15:00, team_home: Радужные Мосты, team_guest: Снежные Ласточки, surface: Светлый Порог
+date: 2027-03-26, time: 18:00, team_home: Туманные Шалопаи, team_guest: Речной Сонет, surface: Туманный Перевал
+date: 2027-03-27, time: 12:00, team_home: Путешественники-Кометы, team_guest: Сказочные Нити, surface: Дальний Бугор
+date: 2027-03-27, time: 15:00, team_home: Вишнёвые Краги, team_guest: Снежные Ласточки, surface: Вишнёвая Застава
+date: 2027-03-27, time: 18:00, team_home: Радужные Мосты, team_guest: Туманные Шалопаи, surface: Светлый Порог
+date: 2027-03-28, time: 12:00, team_home: Хрустальные Флаги, team_guest: Шелковые Крылья, surface: Изумрудград
+date: 2027-03-28, time: 15:00, team_home: Лунные Кони, team_guest: Хохотунчики, surface: Луногорье
+date: 2027-03-28, time: 18:00, team_home: Радужные Мосты, team_guest: Соломенные Валы, surface: Светлый Порог
+date: 2027-04-02, time: 12:00, team_home: Хохотунчики, team_guest: Вишнёвые Краги, surface: Бархатный Холм
+date: 2027-04-02, time: 15:00, team_home: Пурпурные Мячники, team_guest: Радужные Мосты, surface: Гусиное Копытце
+date: 2027-04-02, time: 18:00, team_home: Золотые Колокольчики, team_guest: Речной Сонет, surface: Туманный Перевал
+date: 2027-04-03, time: 12:00, team_home: Соломенные Валы, team_guest: Вишнёвые Краги, surface: Липовый Бор
+date: 2027-04-03, time: 15:00, team_home: Изумрудные Стражи, team_guest: Радужные Мосты, surface: Изумрудград
+date: 2027-04-03, time: 18:00, team_home: Снежные Ласточки, team_guest: Ветерок-Игрун, surface: Снежноград
+date: 2027-04-04, time: 12:00, team_home: Хохотунчики, team_guest: Хрустальные Флаги, surface: Бархатный Холм
+date: 2027-04-04, time: 15:00, team_home: Золотые Колокольчики, team_guest: Шелковые Крылья, surface: Туманный Перевал
+date: 2027-04-04, time: 18:00, team_home: Снежные Ласточки, team_guest: Пурпурные Мячники, surface: Снежноград
+date: 2027-04-10, time: 12:00, team_home: Туманные Шалопаи, team_guest: Золотые Колокольчики, surface: Туманный Перевал
+date: 2027-04-10, time: 15:00, team_home: Пурпурные Мячники, team_guest: Берёзовые Струны, surface: Гусиное Копытце
+date: 2027-04-10, time: 18:00, team_home: Радужные Мосты, team_guest: Небесные Дудочки, surface: Светлый Порог
+date: 2027-04-11, time: 12:00, team_home: Шелковые Крылья, team_guest: Пурпурные Мячники, surface: Тихий Сад
+date: 2027-04-11, time: 15:00, team_home: Золотые Колокольчики, team_guest: Одуванчиковый Отряд, surface: Туманный Перевал
+date: 2027-04-11, time: 18:00, team_home: Речной Сонет, team_guest: Сказочные Нити, surface: Качаловка
+date: 2027-04-16, time: 12:00, team_home: Хрустальные Флаги, team_guest: Снежные Ласточки, surface: Изумрудград
+date: 2027-04-16, time: 15:00, team_home: Рыжие Погоны, team_guest: Ветерок-Игрун, surface: Крапивное
+date: 2027-04-16, time: 18:00, team_home: Берёзовые Струны, team_guest: Сказочные Нити, surface: Берёзовая Роща
+date: 2027-04-17, time: 12:00, team_home: Соломенные Валы, team_guest: Снежные Ласточки, surface: Липовый Бор
+date: 2027-04-17, time: 15:00, team_home: Рыжие Погоны, team_guest: Речной Сонет, surface: Крапивное
+date: 2027-04-17, time: 18:00, team_home: Туманные Шалопаи, team_guest: Берёзовые Струны, surface: Туманный Перевал
+date: 2027-04-18, time: 12:00, team_home: Рыжие Погоны, team_guest: Снежные Ласточки, surface: Крапивное
+date: 2027-04-18, time: 15:00, team_home: Путешественники-Кометы, team_guest: Туманные Шалопаи, surface: Дальний Бугор
+date: 2027-04-18, time: 18:00, team_home: Радужные Мосты, team_guest: Шелковые Крылья, surface: Светлый Порог
+date: 2027-04-23, time: 12:00, team_home: Речной Сонет, team_guest: Радужные Мосты, surface: Качаловка
+date: 2027-04-23, time: 15:00, team_home: Изумрудные Стражи, team_guest: Сказочные Нити, surface: Изумрудград
+date: 2027-04-23, time: 18:00, team_home: Соломенные Валы, team_guest: Золотые Колокольчики, surface: Липовый Бор
+date: 2027-04-24, time: 12:00, team_home: Пурпурные Мячники, team_guest: Вишнёвые Краги, surface: Гусиное Копытце
+date: 2027-04-24, time: 15:00, team_home: Одуванчиковый Отряд, team_guest: Сказочные Нити, surface: Полянка Дубровна
+date: 2027-04-24, time: 18:00, team_home: Изумрудные Стражи, team_guest: Туманные Шалопаи, surface: Изумрудград
+date: 2027-04-25, time: 12:00, team_home: Снежные Ласточки, team_guest: Хрустальные Флаги, surface: Снежноград
+date: 2027-04-25, time: 15:00, team_home: Небесные Дудочки, team_guest: Вишнёвые Краги, surface: Звёздный Ключ
+date: 2027-04-25, time: 18:00, team_home: Радужные Мосты, team_guest: Речной Сонет, surface: Светлый Порог
+date: 2027-04-30, time: 12:00, team_home: Пурпурные Мячники, team_guest: Одуванчиковый Отряд, surface: Гусиное Копытце
+date: 2027-04-30, time: 15:00, team_home: Золотые Колокольчики, team_guest: Путешественники-Кометы, surface: Туманный Перевал
+date: 2027-04-30, time: 18:00, team_home: Небесные Дудочки, team_guest: Хохотунчики, surface: Звёздный Ключ
+date: 2027-05-01, time: 12:00, team_home: Хохотунчики, team_guest: Шелковые Крылья, surface: Бархатный Холм
+date: 2027-05-01, time: 15:00, team_home: Изумрудные Стражи, team_guest: Хрустальные Флаги, surface: Изумрудград
+date: 2027-05-01, time: 18:00, team_home: Соломенные Валы, team_guest: Пурпурные Мячники, surface: Липовый Бор
+date: 2027-05-02, time: 12:00, team_home: Речной Сонет, team_guest: Вишнёвые Краги, surface: Качаловка
+date: 2027-05-02, time: 15:00, team_home: Путешественники-Кометы, team_guest: Радужные Мосты, surface: Дальний Бугор
+date: 2027-05-02, time: 18:00, team_home: Золотые Колокольчики, team_guest: Ветерок-Игрун, surface: Туманный Перевал
+date: 2027-05-07, time: 12:00, team_home: Берёзовые Струны, team_guest: Пурпурные Мячники, surface: Берёзовая Роща
+date: 2027-05-07, time: 15:00, team_home: Лунные Кони, team_guest: Соломенные Валы, surface: Луногорье
+date: 2027-05-07, time: 18:00, team_home: Сказочные Нити, team_guest: Хохотунчики, surface: Златолесье
+date: 2027-05-08, time: 12:00, team_home: Небесные Дудочки, team_guest: Ветерок-Игрун, surface: Звёздный Ключ
+date: 2027-05-08, time: 15:00, team_home: Речной Сонет, team_guest: Туманные Шалопаи, surface: Качаловка
+date: 2027-05-08, time: 18:00, team_home: Снежные Ласточки, team_guest: Рыжие Погоны, surface: Снежноград
+date: 2027-05-09, time: 12:00, team_home: Речной Сонет, team_guest: Хохотунчики, surface: Качаловка
+date: 2027-05-09, time: 15:00, team_home: Снежные Ласточки, team_guest: Шелковые Крылья, surface: Снежноград
+date: 2027-05-09, time: 18:00, team_home: Золотые Колокольчики, team_guest: Рыжие Погоны, surface: Туманный Перевал
+date: 2027-05-14, time: 12:00, team_home: Пурпурные Мячники, team_guest: Шелковые Крылья, surface: Гусиное Копытце
+date: 2027-05-14, time: 15:00, team_home: Речной Сонет, team_guest: Одуванчиковый Отряд, surface: Качаловка
+date: 2027-05-14, time: 18:00, team_home: Сказочные Нити, team_guest: Радужные Мосты, surface: Златолесье
+date: 2027-05-15, time: 12:00, team_home: Снежные Ласточки, team_guest: Соломенные Валы, surface: Снежноград
+date: 2027-05-15, time: 15:00, team_home: Ветерок-Игрун, team_guest: Путешественники-Кометы, surface: Берёзовая Роща
+date: 2027-05-15, time: 18:00, team_home: Пурпурные Мячники, team_guest: Хрустальные Флаги, surface: Гусиное Копытце
+date: 2027-05-16, time: 12:00, team_home: Соломенные Валы, team_guest: Одуванчиковый Отряд, surface: Липовый Бор
+date: 2027-05-16, time: 15:00, team_home: Лунные Кони, team_guest: Снежные Ласточки, surface: Луногорье
+date: 2027-05-16, time: 18:00, team_home: Золотые Колокольчики, team_guest: Хохотунчики, surface: Туманный Перевал
+date: 2027-05-21, time: 12:00, team_home: Вишнёвые Краги, team_guest: Лунные Кони, surface: Вишнёвая Застава
+date: 2027-05-21, time: 15:00, team_home: Хрустальные Флаги, team_guest: Рыжие Погоны, surface: Изумрудград
+date: 2027-05-21, time: 18:00, team_home: Небесные Дудочки, team_guest: Радужные Мосты, surface: Звёздный Ключ
+date: 2027-05-22, time: 12:00, team_home: Путешественники-Кометы, team_guest: Соломенные Валы, surface: Дальний Бугор
+date: 2027-05-22, time: 15:00, team_home: Одуванчиковый Отряд, team_guest: Изумрудные Стражи, surface: Полянка Дубровна
+date: 2027-05-22, time: 18:00, team_home: Речной Сонет, team_guest: Пурпурные Мячники, surface: Качаловка
+date: 2027-05-23, time: 12:00, team_home: Изумрудные Стражи, team_guest: Одуванчиковый Отряд, surface: Изумрудград
+date: 2027-05-23, time: 15:00, team_home: Рыжие Погоны, team_guest: Туманные Шалопаи, surface: Крапивное
+date: 2027-05-23, time: 18:00, team_home: Берёзовые Струны, team_guest: Соломенные Валы, surface: Берёзовая Роща
+date: 2027-05-28, time: 12:00, team_home: Шелковые Крылья, team_guest: Одуванчиковый Отряд, surface: Тихий Сад
+date: 2027-05-28, time: 15:00, team_home: Хрустальные Флаги, team_guest: Ветерок-Игрун, surface: Изумрудград
+date: 2027-05-28, time: 18:00, team_home: Изумрудные Стражи, team_guest: Хохотунчики, surface: Изумрудград
+date: 2027-05-29, time: 12:00, team_home: Вишнёвые Краги, team_guest: Золотые Колокольчики, surface: Вишнёвая Застава
+date: 2027-05-29, time: 15:00, team_home: Радужные Мосты, team_guest: Хохотунчики, surface: Светлый Порог
+date: 2027-05-29, time: 18:00, team_home: Туманные Шалопаи, team_guest: Ветерок-Игрун, surface: Туманный Перевал
+date: 2027-05-30, time: 12:00, team_home: Пурпурные Мячники, team_guest: Небесные Дудочки, surface: Гусиное Копытце
