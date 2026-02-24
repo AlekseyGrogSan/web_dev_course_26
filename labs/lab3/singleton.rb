@@ -13,11 +13,17 @@ class Logger
   # TODO: Make the constructor private using private_class_method
   # TODO: Create a class variable @@instance
   # TODO: Implement self.instance method that returns the single instance
-  
+  private_class_method :new
+  @@instance = nil
+
+  def self.instance
+    @@instance ||= new
+  end
+
   def initialize
     @logs = []
   end
-  
+
   def log(message)
     @logs << "[#{Time.now}] #{message}"
   end
@@ -39,6 +45,7 @@ require 'singleton'
 
 class Configuration
   # TODO: Include the Singleton module
+  include Singleton
   
   attr_accessor :app_name, :version, :debug_mode
   

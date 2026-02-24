@@ -151,7 +151,7 @@ class GenerateCalendar
       end
       # Команды, которые уже играют в этот день
       weekend_teams = []
-      # Планируем до m игр в день
+
       (0).upto(2) do |i|
         # Проверяем, все ли игры использованы
         if games_inds.length >= all_games.length

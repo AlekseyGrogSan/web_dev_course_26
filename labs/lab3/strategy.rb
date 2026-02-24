@@ -8,7 +8,6 @@
 
 # Exercise 1: Payment Strategy
 # Implement different payment methods that can be used interchangeably
-
 class PaymentStrategy
   def pay(amount)
     raise NotImplementedError, "Subclasses must implement pay method"
@@ -23,7 +22,7 @@ class CreditCardPayment < PaymentStrategy
   # TODO: Implement pay method
   # Return "Paid $#{amount} using Credit Card ending in #{last_4_digits}"
   def pay(amount)
-    nil
+    return "Paid $#{amount} using Credit Card ending in #{last_4_digits}"
   end
   
   private
@@ -41,7 +40,7 @@ class PayPalPayment < PaymentStrategy
   # TODO: Implement pay method
   # Return "Paid $#{amount} using PayPal account #{email}"
   def pay(amount)
-    nil
+    return "Paid $#{amount} using PayPal account #{@email}"
   end
 end
 
@@ -53,7 +52,7 @@ class CryptoPayment < PaymentStrategy
   # TODO: Implement pay method
   # Return "Paid $#{amount} using Crypto wallet #{wallet_address}"
   def pay(amount)
-    nil
+    return "Paid $#{amount} using Crypto wallet #{@wallet_address}"
   end
 end
 
@@ -69,7 +68,7 @@ class ShoppingCart
   
   # TODO: Implement set_payment_strategy method
   def set_payment_strategy(strategy)
-    nil
+    @payment_strategy = strategy
   end
   
   def total
@@ -80,7 +79,7 @@ class ShoppingCart
   # Use the payment strategy to process payment
   # Return the result from payment strategy's pay method
   def checkout
-    nil
+    return @payment_strategy.pay(total)
   end
 end
 
@@ -99,17 +98,32 @@ class BubbleSort
   # TODO: Implement bubble sort
   # Return sorted array (ascending order)
   def sort(array)
-    nil
+    arr = Array.new(array)
+    n = array.length
+    (0...n).each do |i|
+      (0...(n - i - 1)).each do |j|
+        if (arr[j] > arr[j + 1])
+          temp = arr[j]
+          arr[j] = arr[j + 1]
+          arr[j + 1] = temp
+        end
+      end
+    end
+    arr
   end
 end
-
 class QuickSort
   include SortStrategy
   
   # TODO: Implement quick sort or use Ruby's built-in sort
   # Return sorted array (ascending order)
   def sort(array)
-    nil
+    return array if array.length <= 1
+
+    pivot = array.delete_at(rand(array.length))
+    left, right = array.partition { |x| x < pivot }
+
+    return [*sort(left), pivot, *sort(right)]
   end
 end
 
@@ -119,7 +133,7 @@ class ReverseSort
   # TODO: Implement reverse sort
   # Return sorted array (descending order)
   def sort(array)
-    nil
+    return array.sort.reverse
   end
 end
 
@@ -130,13 +144,13 @@ class DataProcessor
   
   # TODO: Implement set_strategy method
   def set_strategy(strategy)
-    nil
+    @sort_strategy = strategy
   end
   
   # TODO: Implement process method
   # Use the sort strategy to sort the data
   def process(data)
-    nil
+    @sort_strategy.sort(data)
   end
 end
 
@@ -150,26 +164,21 @@ class CompressionStrategy
 end
 
 class ZipCompression < CompressionStrategy
-  # TODO: Implement compress method
-  # Return "ZIP compressed: #{data}"
   def compress(data)
-    nil
+    "ZIP compressed: #{data}"
   end
 end
 
 class RarCompression < CompressionStrategy
-  # TODO: Implement compress method
-  # Return "RAR compressed: #{data}"
   def compress(data)
-    nil
+    "RAR compressed: #{data}"
   end
 end
-
 class NoCompression < CompressionStrategy
   # TODO: Implement compress method
   # Return "Not compressed: #{data}"
   def compress(data)
-    nil
+    return "Not compressed: #{data}"
   end
 end
 
@@ -182,16 +191,19 @@ class FileHandler
   
   # TODO: Implement set_compression method
   def set_compression(strategy)
-    nil
+    @compression_strategy = strategy
   end
   
   # TODO: Implement save_file method
   # Compress data using the strategy and return result
   def save_file(data)
-    nil
+    @compression_strategy.compress(data)
   end
 end
 
+processor = DataProcessor.new(BubbleSort.new)
+result = processor.process([3, 1, 4, 1, 5, 9, 2, 6])
+puts result
 # ============================================
 # TEST CASES - Do not modify below this line
 # ============================================
